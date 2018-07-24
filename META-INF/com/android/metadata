@@ -1,0 +1,3 @@
+post-build=lge/geehdc_dcm_jp/geehdc:4.0.4/IMM76L/.1363085524:user/release-keys
+post-timestamp=1415076892
+pre-device=geehdc
